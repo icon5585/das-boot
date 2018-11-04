@@ -1,5 +1,14 @@
+# Mac/Eclipse stuff
+.DS_STORE
+.project
+.settings
+.classpath
+
 # Compiled class file
 *.class
+
+# Maven target directory
+target/*
 
 # Log file
 *.log
